@@ -1,9 +1,9 @@
 ## Hello World !!
 
-![maxma241's github stats](https://github-readme-stats.vercel.app/api?username=maxma241&show_icons=true&count_private=true&theme=dark)
+![maxma241's github stats](https://github-readme-stats.vercel.app/api?username=maxma241&show_icons=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxma241&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxma241&layout=compact&hide=html,css&langs_count=10)
 
 <!--
 **maxma241/maxma241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
